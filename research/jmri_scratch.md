@@ -42,6 +42,24 @@ Ok, like OS, I am several versions ahead of what is referenced on site.  Well, l
 /home/pi/Downloads/JMRI.4.18+R37ad3d0.tgz
 ```
 
+Then extract and by (my best understanding of) convention, move to `/opt` directory.
+
+To execute, go to `/opt/JMRI` and enter `./PanelPro` or `./DecoderPro`, per instructions.  Ok, tried it it works, now what is the next step?  Probably need to learn a bit more about the software, and then tackle actually trying to connect the **z21** box.
+
+# Exploring JMRI basics
+
+Based on example in JMRI [setup page](https://www.jmri.org/help/en/html/setup/index.shtml), I am starting with the **DecoderPro** program.
+
+ - asks me to set active profile, chose default "My JMRI Railroad"
+ - started wizard
+  - changed default owner from `root` to `pi`
+  - selected Roco and Z21 from dropdown list in  wizard
+   - IP configuration stuff came up, which I don't want to deal with right now
+   - so switched to **Z21 Simulator** for now
+
+Ok, program came up with instructions on how to get started.
 
 
- 
+
+
+
