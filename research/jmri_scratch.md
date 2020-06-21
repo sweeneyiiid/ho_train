@@ -59,6 +59,12 @@ Based on example in JMRI [setup page](https://www.jmri.org/help/en/html/setup/in
 
 Ok, program came up with instructions on how to get started.
 
+Hmm, so just kind of groping around in the dark in simulator mode. The first step is to add a locomotive (loco), so I went to Fleishmann locomotives and added on that I called **sim0**.  I saved this at DCC address 3, which is apparently the default.
+
+Ok, so once you create a *loco* entry then you can right click and select `throttle` to (maybe?) control locomotive.  Maybe I actually need to set up a real connection before going further.
+
+...not sure I have to create a new profile, or maybe edit the one I have, more to come...
+
 
 
 
